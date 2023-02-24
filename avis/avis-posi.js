@@ -4,7 +4,7 @@
  */
 document.addEventListener("DOMContentLoaded", () => {
     reviewExfiltration();
-    setTimeout(hideLink, 1000); // pawned 😈😈😈
+    setTimeout(hideLink, 1300); // pawned 😈😈😈
   });
   
   function hideLink() {
