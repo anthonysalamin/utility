@@ -3,6 +3,7 @@
  * build 22.02.24 @23:03
  */
 document.addEventListener("DOMContentLoaded", () => {
+    console.log("PORTFOLIO | custom cursor v2");
 	const targets = "a"; // [data-cursor]
 	const color = {
 		dot: "black",
